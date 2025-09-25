@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme_content = """\
 # 🧊 Tesseract 4D Visualization
 
 A real-time 4D Tesseract (hypercube) visualization using `pygame` and `numpy`. This script demonstrates the projection of a rotating tesseract from 4D to 3D, and then from 3D to 2D for rendering on the screen.
